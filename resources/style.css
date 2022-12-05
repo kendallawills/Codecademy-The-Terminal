@@ -90,3 +90,16 @@ p {
     margin-top: 60px;
     padding: 10px 20px;
 }
+
+.pull-quote {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.byline {
+    font-size: 14px;
+    font-weight: 200;
+    color: darkgrey;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
