@@ -29,3 +29,28 @@ body {
 .donate {
     visibility: hidden;
 }
+
+/* BANNER */
+
+#banner {
+    background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 700px;
+}
+
+#banner .content h1 {
+    border: 3px solid white;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
