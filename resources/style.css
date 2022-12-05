@@ -54,3 +54,39 @@ h1 {
     color: white;
     text-align: center;
 }
+
+/* MAIN */
+
+#main {
+    text-align: center;
+    width: 400px;
+    height: 1000px;
+    overflow: scroll;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h2 {
+    font-size: 14px;
+    line-height: 48px;
+    text-align: center;
+    color: red;
+    border: 1px dotted red;
+    margin: 30px 20px;
+    padding: 20px 30px;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: 700;
+    color: red;
+    padding: 20px 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 48px;
+    color: grey;
+    margin-top: 60px;
+    padding: 10px 20px;
+}
