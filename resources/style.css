@@ -1,0 +1,31 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* NAVIGATION */
+
+.navigation ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation li {
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
+.navigation li.logo {
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 4px;
+}
+
+.donate {
+    visibility: hidden;
+}
