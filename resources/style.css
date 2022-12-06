@@ -103,3 +103,28 @@ p {
     border-top: 1px solid lightgrey;
     border-bottom: 1px solid lightgrey;
 }
+
+.share {
+    text-align: center;
+    width: 100%;
+    border: 1px solid lightgrey;
+    position: relative;
+    padding: 40px 0px;
+}
+
+.share a {
+    color: white;
+    text-decoration: none;
+    background: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+}
+
+.share a:hover {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+}
